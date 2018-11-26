@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.Form1.resources
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.Properties.Resources.resources
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Dicionary\Dicionary\bin\Debug\Dicionary.exe.config
+C:\Users\diego\source\repos\Dicionary\Dicionary\bin\Debug\Dicionary.exe
+C:\Users\diego\source\repos\Dicionary\Dicionary\bin\Debug\Dicionary.pdb
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.exe
+C:\Users\diego\source\repos\Dicionary\Dicionary\obj\Debug\Dicionary.pdb
