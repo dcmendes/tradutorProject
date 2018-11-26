@@ -28,6 +28,9 @@ public static void main(String[] args) {
 				
 				//DatagramPacket reply = new DatagramPacket(request.getData(), request.getLength(), request.getAddress(), request.getPort());
 				aSocket.send(reply);
+				buffer = null;
+
+				buffer = new byte[1000];
 				
 			
 				
